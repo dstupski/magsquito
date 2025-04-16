@@ -1,0 +1,3 @@
+mask : .1
+threshold : 55
+video_topic : /basler/image_raw
