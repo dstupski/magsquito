@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: magsquito
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: magneto
+Maintainer-email: dstupski@uw.edu
+License: TODO: License declaration
+Requires-Dist: setuptools

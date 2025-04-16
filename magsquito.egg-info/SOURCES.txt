@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+magsquito/__init__.py
+magsquito.egg-info/PKG-INFO
+magsquito.egg-info/SOURCES.txt
+magsquito.egg-info/dependency_links.txt
+magsquito.egg-info/requires.txt
+magsquito.egg-info/top_level.txt
+magsquito.egg-info/zip-safe
+resource/magsquito
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
