@@ -1,0 +1,10 @@
+# listens to a topic then based on an arbitrary linear transformation outputs a voltage
+#through uldaq analog output functionality.
+
+#TO DO make modular to control multiple analog out channels, for now only need one
+
+gain : 1.0
+offset : 0.0
+channel : AO0
+subscriber_topic : /analog_input/AI0
+

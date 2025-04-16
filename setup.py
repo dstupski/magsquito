@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
        'console_scripts': [
-        'daqNode = magsquito.daqNode:main']
+        'daqNode = magsquito.daqNode:main',
+       'analogOutput = magsquito.analogOutput:main']
     },
 )
